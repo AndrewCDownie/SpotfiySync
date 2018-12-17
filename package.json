@@ -1,0 +1,14 @@
+{
+  "name": "spotapp",
+  "version": "1.0.0",
+  "description": "An appy to sync peoples spotifiy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Downie",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
